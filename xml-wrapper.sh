@@ -39,7 +39,7 @@ EXCLUDED_PATTERNS=(
     "package-lock.json"
     "output/*"
     ".venv/*"
-    "mypy_cache/"
+    "*/.mypy_cache/"
     # Add more patterns here as needed
 )
 
